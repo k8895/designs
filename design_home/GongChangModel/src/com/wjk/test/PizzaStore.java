@@ -6,7 +6,7 @@ public abstract class PizzaStore {
 
 	public abstract Pizza creatPizza(String Type);
 	
-	//²»ÄÜÈÃ×ÓÀà¸²¸Ç
+	//ç¦æ­¢å­ç±»è¦†ç›–æ­¤æ–¹æ³•
 	public final Pizza orderPizza(String type){
 		Pizza pizza;
 		
